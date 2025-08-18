@@ -1,7 +1,5 @@
 C:\Users\Estudiante\Desktop\learnApi_Practica\src\main\java\IntegracionBackFront\backfront\BackfrontApplication.java
-C:\Users\Estudiante\Desktop\learnApi_Practica\src\main\java\IntegracionBackFront\backfront\Config\Cloudinary\CloudinaryConfig.java
 C:\Users\Estudiante\Desktop\learnApi_Practica\src\main\java\IntegracionBackFront\backfront\Controller\Categories\CategoriesController.java
-C:\Users\Estudiante\Desktop\learnApi_Practica\src\main\java\IntegracionBackFront\backfront\Controller\Cloudinary\ImageController.java
 C:\Users\Estudiante\Desktop\learnApi_Practica\src\main\java\IntegracionBackFront\backfront\Controller\Products\ProductController.java
 C:\Users\Estudiante\Desktop\learnApi_Practica\src\main\java\IntegracionBackFront\backfront\Entities\Categories\CategoryEntity.java
 C:\Users\Estudiante\Desktop\learnApi_Practica\src\main\java\IntegracionBackFront\backfront\Entities\Products\ProductEntity.java
@@ -15,6 +13,5 @@ C:\Users\Estudiante\Desktop\learnApi_Practica\src\main\java\IntegracionBackFront
 C:\Users\Estudiante\Desktop\learnApi_Practica\src\main\java\IntegracionBackFront\backfront\Repositories\Categories\CategoryRepository.java
 C:\Users\Estudiante\Desktop\learnApi_Practica\src\main\java\IntegracionBackFront\backfront\Repositories\Products\ProductRepository.java
 C:\Users\Estudiante\Desktop\learnApi_Practica\src\main\java\IntegracionBackFront\backfront\Services\Categories\CategoryService.java
-C:\Users\Estudiante\Desktop\learnApi_Practica\src\main\java\IntegracionBackFront\backfront\Services\Cloudinary\CloudinaryService.java
 C:\Users\Estudiante\Desktop\learnApi_Practica\src\main\java\IntegracionBackFront\backfront\Services\Products\ProductService.java
 C:\Users\Estudiante\Desktop\learnApi_Practica\src\main\java\IntegracionBackFront\backfront\ServletInitializer.java
